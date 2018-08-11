@@ -1,11 +1,11 @@
 # rainbow-gradient
 Generates a gradient of the colors of the rainbow.
 
-[![package](https://img.shields.io/github/package-json/v/CharlesStover/rainbow-gradient.svg)](http://github.com/CharlesStover/delimiter/)
-[![build](https://travis-ci.com/CharlesStover/rainbow-gradient.svg)](https://travis-ci.com/CharlesStover/delimiter/)
-[![downloads](https://img.shields.io/npm/dt/rainbow-gradient.svg)](https://www.npmjs.com/package/delimiter)
-[![minified size](https://img.shields.io/bundlephobia/min/rainbow-gradient.svg)](https://www.npmjs.com/package/delimiter)
-[![minzipped size](https://img.shields.io/bundlephobia/minzip/rainbow-gradient.svg)](https://www.npmjs.com/package/delimiter)
+[![package](https://img.shields.io/github/package-json/v/CharlesStover/rainbow-gradient.svg)](http://github.com/CharlesStover/rainbow-gradient/)
+[![build](https://travis-ci.com/CharlesStover/rainbow-gradient.svg)](https://travis-ci.com/CharlesStover/rainbow-gradient/)
+[![downloads](https://img.shields.io/npm/dt/rainbow-gradient.svg)](https://www.npmjs.com/package/rainbow-gradient)
+[![minified size](https://img.shields.io/bundlephobia/min/rainbow-gradient.svg)](https://www.npmjs.com/package/rainbow-gradient)
+[![minzipped size](https://img.shields.io/bundlephobia/minzip/rainbow-gradient.svg)](https://www.npmjs.com/package/rainbow-gradient)
 
 ## Install
 * `npm install rainbow-gradient --save` or
