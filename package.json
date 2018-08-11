@@ -1,0 +1,34 @@
+{
+  "name": "rainbow-gradient",
+  "version": "1.0.0",
+  "author": "Charles Stover <npmjs@charlesstover.com>",
+  "bugs": {
+    "url": "https://github.com/CharlesStover/rainbow-gradient/issues"
+  },
+  "dependencies": {
+    "@charlesstover/hsl2rgb": "^1.0.4"
+  },
+  "description": "Generates a gradient of the colors of the rainbow.",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-rc.1",
+    "@babel/preset-env": "^7.0.0-rc.1",
+    "babel-loader": "^8.0.0-beta.4",
+    "jsdom": "^11.12.0",
+    "jsdom-global": "^3.0.2",
+    "mocha": "^5.2.0",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "homepage": "https://github.com/CharlesStover/rainbow-gradient#readme",
+  "keywords": [
+    "rainbow"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/CharlesStover/rainbow-gradient.git",
+  "scripts": {
+    "build": "webpack",
+    "prepublishOnly": "npm run build",
+    "test": "mocha -r jsdom-global/register tests/rainbow-gradient.spec.js"
+  }
+}
