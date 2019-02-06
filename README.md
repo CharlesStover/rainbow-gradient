@@ -1,17 +1,20 @@
-# rainbow-gradient
+# Rainbow Gradient [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Use%20rainbow-gradient%20to%20easily%20generate%20an%20array%20of%20smoothly-transitioned%20RGB%20values%20for%20any%20length,%20saturation,%20or%20lightness.&url=https://github.com/CharlesStover/rainbow-gradient&via=CharlesStover&hashtags=javascript,programming,webdev,webdeveloper,webdevelopment)
+
 Generates a gradient of the colors of the rainbow.
 
-[![package](https://img.shields.io/github/package-json/v/CharlesStover/rainbow-gradient.svg)](http://github.com/CharlesStover/rainbow-gradient/)
-[![build](https://travis-ci.com/CharlesStover/rainbow-gradient.svg)](https://travis-ci.com/CharlesStover/rainbow-gradient/)
-[![downloads](https://img.shields.io/npm/dt/rainbow-gradient.svg)](https://www.npmjs.com/package/rainbow-gradient)
+[![version](https://img.shields.io/npm/v/rainbow-gradient.svg)](https://www.npmjs.com/package/rainbow-gradient)
 [![minified size](https://img.shields.io/bundlephobia/min/rainbow-gradient.svg)](https://www.npmjs.com/package/rainbow-gradient)
 [![minzipped size](https://img.shields.io/bundlephobia/minzip/rainbow-gradient.svg)](https://www.npmjs.com/package/rainbow-gradient)
+[![downloads](https://img.shields.io/npm/dt/rainbow-gradient.svg)](https://www.npmjs.com/package/rainbow-gradient)
+[![build](https://travis-ci.com/CharlesStover/rainbow-gradient.svg)](https://travis-ci.com/CharlesStover/rainbow-gradient/)
 
 ## Install
+
 * `npm install rainbow-gradient --save` or
 * `yarn add rainbow-gradient`
 
 ## Use
+
 ```JS
 import rainbowGradient from 'rainbow-gradient';
 
